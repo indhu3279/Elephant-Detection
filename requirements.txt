@@ -1,2 +1,13 @@
-tensorflow
+tensorboard==2.13.0
+tensorboard-data-server==0.7.1
+tensorflow==2.13.0
+tensorflow-datasets==4.9.2
+tensorflow-estimator==2.13.0
+tensorflow-gcs-config==2.13.0
+tensorflow-hub==0.14.0
+tensorflow-io-gcs-filesystem==0.33.0
+tensorflow-metadata==1.14.0
+tensorflow-probability==0.20.1
+tensorstore==0.1.41
+pytensor==2.14.2
 streamlit
